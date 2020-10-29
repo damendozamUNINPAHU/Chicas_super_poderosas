@@ -1,2 +1,4 @@
-# Chicas_super_poderosas hola
-hola
+userId=input ()
+print(userId)
+birthDate=input()
+print(birthDate)
