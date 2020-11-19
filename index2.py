@@ -3,6 +3,7 @@ print(userId)
 birthDate=input()
 print(birthDate)
 
+print "Bienvenido"
 userId 
     print "Geraldine"  
         if True: 
